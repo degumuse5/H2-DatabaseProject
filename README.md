@@ -21,5 +21,9 @@ The display-manager class loads the menus onto the stack of type MENU then displ
 
 https://github.com/degumuse5/H2-DatabaseProject/assets/80492184/a9faf32a-2a7e-4cf4-80bb-3089a58eee48
 
+# DataBase Diagram after
+
+<img width="729" alt="Screenshot 2023-08-22 at 4 17 36 PM" src="https://github.com/degumuse5/H2-DatabaseProject/assets/80492184/8b86b90a-316b-4fad-a143-09e90fb8d3dc">
+
 
 
